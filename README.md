@@ -1,10 +1,10 @@
 # Hello.
 
-Xing Ern here. I just completed the 9-week Web Development Bootcamp by Le Wagon. Check out the apps that my team developed: 1) [A Taste of Home](https://github.com/f-Xiaoxi/a-taste-of-home); and 2) [Take Trails](https://github.com/barbayjuliette/take_trails). I'm quite proud of them.
+Xing Ern here. I just completed the 9-week Web Development Bootcamp by Le Wagon. Check out the apps that my team developed: 1) [A Taste of Home](https://github.com/f-Xiaoxi/a-taste-of-home); and 2) [Take Trails](https://github.com/barbayjuliette/take_trails). They're by no means perfect, but I'm still quite proud of them.
 
 I'm currently looking for a job in software development. In the meantime, I will be learning as much as I can! Currently, I'm focusing on Node.js and some computer science fundamentals. You might see some of my mini projects on here.
 
-Reach me at lxingern@gmail.com if you wanna connect. 
+Reach me at lxingern@gmail.com if you want to connect. 
 
 <!--
 **lxingern/lxingern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
