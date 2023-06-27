@@ -1,8 +1,8 @@
 # Hello.
 
-Xing Ern here. I just completed the 9-week Web Development Bootcamp by Le Wagon. Check out the apps that my team developed: 1) [A Taste of Home](https://github.com/f-Xiaoxi/a-taste-of-home); and 2) [Take Trails](https://github.com/barbayjuliette/take_trails). They're by no means perfect, but I'm still quite proud of them.
+Xing Ern here. I'm currently trying to transition into a career in software development - I completed the 9-week Web Development Bootcamp by Le Wagon in Dec 2022 and the 8-week Graduate Software Developer Program by Wiley Edge in Jun 2023. Check out the apps that I/my team developed in the pinned repos below. They're by no means perfect, but I'm still quite proud of them.
 
-I'm currently looking for a job in software development. In the meantime, I will be learning as much as I can! Currently, I'm focusing on React.js and some computer science fundamentals. You might see some of my mini projects on here.
+While continuing to look for a job in software development, I will be learning as much as I can! Currently, I'm focusing on Linux and some DevOps stuff. You might see some of my mini projects on here.
 
 Reach me at lxingern@gmail.com if you want to connect. 
 
