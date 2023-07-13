@@ -10,7 +10,7 @@ Here's a list of my projects, from most to least recent:
 5. [Take Trails](https://github.com/barbayjuliette/take_trails): Ruby, Ruby on Rails, Bootstrap, PostgreSQL
 6. [A Taste Of Home](https://github.com/f-Xiaoxi/a-taste-of-home): Ruby, Ruby on Rails, Bootstrap, PostgreSQL
 
-While continuing to look for a job in software development, I will be learning as much as I can! Currently, I'm focusing on AWS. 
+While continuing to look for a job in software development, I will be learning as much as I can! Currently, I'm focusing on AWS and computer architecture. 
 
 Reach me at lxingern@gmail.com if you want to connect. 
 
